@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on my personal website.<br>👯 I’m open to collaborate on projects to improve my skills.<br>🌱 I’m currently learning C# and .NET.<br>I'm currently attending the University of Technology, Jamaica.<br>
+🔭 I’m currently working on building a snake game replica.<br>👯 I’m open to collaborate on projects to improve my skills.<br>🌱 I’m currently learning Lua and Unity.<br>I'm currently attending the University of Technology, Jamaica.<br>
 
 
 ## 🌐 Socials:
